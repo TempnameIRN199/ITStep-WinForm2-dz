@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITStep WinForm2 dz1", "ITStep WinForm2 dz1\ITStep WinForm2 dz1.csproj", "{B00B64C5-0119-47E3-9A2B-227C03DCF537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00B64C5-0119-47E3-9A2B-227C03DCF537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00B64C5-0119-47E3-9A2B-227C03DCF537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00B64C5-0119-47E3-9A2B-227C03DCF537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00B64C5-0119-47E3-9A2B-227C03DCF537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD77EB0A-C88C-4570-AEA6-4FF6D0D7AD47}
+	EndGlobalSection
+EndGlobal
